@@ -1,33 +1,122 @@
 {
-  "projects": [
+  "tickets": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "subject": "Email   certificate expired",
+      "status": "Client response pending",
+      "addedAt": "2020-09-23"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "subject": "Issue with Email certificate",
+      "status": "Client response pending",
+      "addedAt": "2020-09-23"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "subject": "Issue app crashing",
+      "status": "Client response pending",
+      "addedAt": "2020-09-23",
+      "history": [
+        {
+          "message": "testing\n",
+          "sender": "Anonymous"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "subject": "Issue with ssl certificate",
+      "status": "Client response pending",
+      "addedAt": "2020-09-23"
+    },
+    {
+      "id": 5,
+      "subject": "Issue with ssl certificate",
+      "status": "Client response pending",
+      "addedAt": "2020-09-23"
+    },
+    {
+      "id": 6,
+      "subject": "Issue with ssl certificate",
+      "status": "Client response pending",
+      "addedAt": "2020-09-23"
+    },
+    {
+      "id": 7,
+      "subject": "Issue with ssl certificate",
+      "status": "Client response pending",
+      "addedAt": "2020-09-23"
+    },
+    {
+      "id": 8,
+      "subject": "Issue with ssl certificate",
+      "status": "Client response pending",
+      "addedAt": "2020-09-23"
+    },
+    {
+      "id": 9,
+      "subject": "Issue with ssl certificate",
+      "status": "Client response pending",
+      "addedAt": "2020-09-23"
+    },
+    {
+      "id": 10,
+      "subject": "Issue with ssl certificate",
+      "status": "Client response pending",
+      "addedAt": "2020-09-23"
+    },
+    {
+      "subject": "test10",
+      "issueDate": "2021-01-01",
+      "description": "hello",
+      "status": "In progress",
+      "addedAt": "2024-03-18T06:23:58.611Z",
+      "sender": "",
+      "id": 13,
+      "history": [
+        {
+          "message": "test\n",
+          "sender": "Anonymous"
+        },
+        {
+          "message": "cascacs",
+          "sender": "Anonymous"
+        }
+      ]
+    },
+    {
+      "subject": "test13",
+      "issueDate": "2021-01-01",
+      "description": "initial message",
+      "status": "In progress",
+      "addedAt": "2024-03-18T06:35:01.938Z",
+      "sender": "",
+      "id": 14
+    },
+    {
+      "subject": "test15",
+      "issueDate": "4564-12-31",
+      "description": "",
+      "status": "Resolved",
+      "addedAt": "2024-03-18T06:40:46.452Z",
+      "id": 15
+    },
+    {
+      "subject": "test16",
+      "issueDate": "54458-01-23",
+      "message": "",
+      "status": "Client response pending",
+      "addedAt": "2024-03-18T06:43:42.442Z",
+      "descriptione": "czeadfc",
+      "id": 16,
+      "description": "fwefg",
+      "history": [
+        {
+          "message": "hfjh\n",
+          "sender": "Anonymous"
+        }
+      ]
     }
   ]
 }
